@@ -45,7 +45,7 @@ lets study AI together with me~~~~
     </td>
   </tr>
   <tr>
-    <td style="width: 33.33%;">4</td>
+    <td style="width: 33.33%;">5</td>
     <td style="width: 33.33%;">detecting_face__to_control_drone</td>
     <td style="width: 33.33%;">
       <a href="https://github.com/MerlynCoding/detecting_face__to_control_drone">
