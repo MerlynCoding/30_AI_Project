@@ -37,7 +37,7 @@ lets study AI together with me~~~~
   </tr>
   <tr>
     <td style="width: 33.33%;">4</td>
-    <td style="width: 33.33%;">drowsiness_detection_with_pytorch</td>
+    <td style="width: 33.33%;">using_yolov5_detect_qrcode</td>
     <td style="width: 33.33%;">
       <a href="https://github.com/MerlynCoding/using_yolov5_detect_qrcode">
         <img src="https://tse1.mm.bing.net/th/id/OIG4.UDJI9JL455q_smLmM23a?pid=ImgGn" height="30" width="30" />
